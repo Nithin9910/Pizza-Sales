@@ -16,10 +16,10 @@ The following are the key findings of the data analysis:
 
 + The total revenue from pizza sales was $817,860.
 * The average order value was $38.31.
-* A total of 49,574 pizzas were sold.
-A total of 21,350 orders were placed.
-The average number of pizzas per order was 2.32.
-The busiest days for pizza orders were Fridays and Saturdays.
-The busiest months for pizza orders were January and July.
-The classic pizza category contributed to the most sales and total orders.
+- A total of 49,574 pizzas were sold.
++ A total of 21,350 orders were placed.
+* The average number of pizzas per order was 2.32.
+- The busiest days for pizza orders were Fridays and Saturdays.
++ The busiest months for pizza orders were January and July.
+* The classic pizza category contributed to the most sales and total orders.
 The large pizza size contributed to the most sales.
