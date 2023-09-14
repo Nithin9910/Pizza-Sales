@@ -5,4 +5,4 @@
 # Data USed
 + Data - Pizza Sales Data with over 1000000000 rows from the year 2015
 + Data Cleaining & Analysis - PostgreSQl & Powerquery
-+ Data Visualization - PowerBi
+- Data Visualization - PowerBi
