@@ -14,9 +14,9 @@ Exploratory data analysis (EDA) was used to explore the data and identify any pa
 
 The following are the key findings of the data analysis:
 
-The total revenue from pizza sales was $817,860.
-The average order value was $38.31.
-A total of 49,574 pizzas were sold.
++ The total revenue from pizza sales was $817,860.
+* The average order value was $38.31.
+* A total of 49,574 pizzas were sold.
 A total of 21,350 orders were placed.
 The average number of pizzas per order was 2.32.
 The busiest days for pizza orders were Fridays and Saturdays.
