@@ -4,3 +4,8 @@
 
 This project analyzes the pizza sales data from Kaggle to understand the sales performance.
 
+## Introduction
+The pizza sales data contains information about the pizza orders placed in 2015. The data includes the order date, time, pizza type, size, and price. The goal of this project is to understand the sales performance by analyzing the data.
+
+## Methods
+* Exploratory data analysis (EDA) was used to explore the data and identify any patterns or trends.
