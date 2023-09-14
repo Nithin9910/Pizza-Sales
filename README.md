@@ -23,3 +23,6 @@ The following are the key findings of the data analysis:
 + The busiest months for pizza orders were January and July.
 * The classic pizza category contributed to the most sales and total orders.
 The large pizza size contributed to the most sales.
+
+## Conclusion
+This project successfully analyzed the pizza sales data to understand the sales performance. The findings of the analysis can be used to improve the sales performance by targeting the busiest days and times, and by offering discounts on the most popular pizza types and sizes.
