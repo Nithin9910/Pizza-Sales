@@ -8,4 +8,18 @@ This project analyzes the pizza sales data from Kaggle to understand the sales p
 The pizza sales data contains information about the pizza orders placed in 2015. The data includes the order date, time, pizza type, size, and price. The goal of this project is to understand the sales performance by analyzing the data.
 
 ## Methods
-* Exploratory data analysis (EDA) was used to explore the data and identify any patterns or trends.
+Exploratory data analysis (EDA) was used to explore the data and identify any patterns or trends.
+
+## Results
+
+The following are the key findings of the data analysis:
+
+The total revenue from pizza sales was $817,860.
+The average order value was $38.31.
+A total of 49,574 pizzas were sold.
+A total of 21,350 orders were placed.
+The average number of pizzas per order was 2.32.
+The busiest days for pizza orders were Fridays and Saturdays.
+The busiest months for pizza orders were January and July.
+The classic pizza category contributed to the most sales and total orders.
+The large pizza size contributed to the most sales.
